@@ -1,0 +1,12 @@
+askrepo
+cargo-expand
+cargo-generate
+cargo-make
+cargo-nextest
+cargo-shuttle
+cargo-tomlfmt
+cargo-update
+cargo-watch
+rust-script
+sqlx-cli
+wasm-pack
